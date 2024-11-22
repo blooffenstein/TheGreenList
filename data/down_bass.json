@@ -1,0 +1,30 @@
+{
+    "id": 8147005,
+    "name": "Down Bass",
+    "author": "Spectra",
+    "creators": ["Exterys Valkyrie", "WoodedGold"],
+    "verifier": "Kevelia",
+    "verification": "https://youtu.be/glrcPc_ObAQ?si=VQgQpNIALb1C4mOB",
+    "percentToQualify": 68,
+    "password": "071100",
+    "records": [
+        {
+            "user": "DarkTD",
+            "link": "https://youtu.be/jiyC8opnPFI?si=DNr7VI8DHiJIabEk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Edduh",
+            "link": "https://youtu.be/IBQxC2-fkrU?si=hsAlcMPShEJij6gc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fu7ureMK",
+            "link": "https://youtu.be/t4V3XGhZhro?si=dZRX5FJEH2OjA0oH",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
