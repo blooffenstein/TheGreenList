@@ -1,0 +1,24 @@
+{
+    "id": 94410319,
+    "name": "Ouroboros Startpos 2",
+    "author": "foodynooby",
+    "creators": [],
+    "verifier": "foodynooby",
+    "verification": "https://youtu.be/YIsJeBI2c_c?si=oNYxvlJuoZsyORp1",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "zuva",
+            "link": "https://youtu.be/5C_ZlN_jTQI?si=pqo-pFfMgIyR9TaB",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Edduh",
+            "link": "https://youtu.be/A8XmphQjRGg?si=iT1k_duMO4pn7mND",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
