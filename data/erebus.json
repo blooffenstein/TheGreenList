@@ -1,0 +1,36 @@
+{
+    "id": 31462941,
+    "name": "Erebus (BoldStep)",
+    "author": "BoldStep",
+    "creators": ["Rustam", "ILRELL"],
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/8csWDx6C2YI?si=Ta8CstYWh6p0YaeL",
+    "percentToQualify": 63,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DarkTD",
+            "link": "https://youtu.be/lOLOPHzpWS4?si=ZW6xwMSFfLnos2AT",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Edduh",
+            "link": "https://youtu.be/KufaE0Jp61E?si=OmZuJ82Wckr5sffc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "stav",
+            "link": "https://youtu.be/9WWt9BqplKU?si=MIsTCvZiOlaFg4-C",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Chee2y",
+            "link": "https://youtu.be/9D3puKaV6ls?si=G6ibI57uRNIEHiIh",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
