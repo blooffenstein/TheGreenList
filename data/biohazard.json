@@ -1,0 +1,18 @@
+{
+    "id": 61997741,
+    "name": "Biohazard",
+    "author": "ARtu",
+    "creators": ["guleshelt", "silver", "Maitnary", "Andr1x", "Artumanka", "Ka1ns"],
+    "verifier": "ARtu",
+    "verification": "https://youtu.be/ntwfv59VQYI?si=P-q4wGgmLOgBAAJm",
+    "percentToQualify": "80",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DarkTD",
+            "link": "https://youtu.be/17HD5Mcj2mw?si=WIVzA5DgrzC8vRmr",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
