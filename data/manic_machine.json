@@ -1,0 +1,18 @@
+{
+    "id": 84829178,
+    "name": "Manic Machine",
+    "author": "TwisterDude161",
+    "creators": ["TwisterDude161"],
+    "verifier": "chloechu",
+    "verification": "https://youtu.be/EfQWT1HP-mI?si=hsoQwJfUIs7gwCTt",
+    "percentToQualify": "75",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "stav",
+            "link": "https://youtu.be/HQpTZvOQqKI?si=E6JOjUd0a4KZ9D2z",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
