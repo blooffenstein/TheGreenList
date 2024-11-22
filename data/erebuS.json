@@ -1,0 +1,36 @@
+{
+    "id": 65860142,
+    "name": "ErebuS (Platnuu)",
+    "author": "Platnuu",
+    "creators": ["Platnuu", "ILRELL"],
+    "verifier": "Ozzy",
+    "verification": "https://youtu.be/p877rT5gxNA?si=0EUOxQUTNb20Mfsx",
+    "percentToQualify": 63,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "blooff",
+            "link": "https://youtu.be/fI8WsBZJFOI?si=mCHjc-X5MSzXu0fX",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Edduh",
+            "link": "https://youtu.be/N3--2xbgsHg?si=l5Y_QEtLGKXqGMxm",
+            "percent": 100,
+            "hz": 237
+        },
+        {
+            "user": "stav",
+            "link": "https://youtu.be/iwtXiJYGcVg?si=YLj41-sFjhrHSwd5",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DarkTD",
+            "link": "https://youtu.be/Fs-BuiNCcHU?si=I9uzeAQezlXzaoUF",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
