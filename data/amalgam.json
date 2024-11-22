@@ -1,0 +1,18 @@
+{
+    "id": 95675702,
+    "name": "Amalgam",
+    "author": "XLSpiral",
+    "creators": ["XLSpiral"],
+    "verifier": "rWooshi",
+    "verification": "https://youtu.be/82DDR2BjXSI?si=qXU4mtrH02tef4Ew",
+    "percentToQualify": "70",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DarkTD",
+            "link": "https://youtu.be/ZleNtBUjOqY?si=T8tXQ29bFER6ysag",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
