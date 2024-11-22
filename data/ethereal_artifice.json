@@ -1,0 +1,30 @@
+{
+    "id": 58252259,
+    "name": "Ethereal Artifice",
+    "author": "Zeroya",
+    "creators": ["Helpegasus", "GDSpeed", "Xaren", "Platnuu", "Isane", "Geo", "Majkomar", "Masu", "Enixy", "voltex", "Spectral", "Zeroya"],
+    "verifier": "Mycrafted",
+    "verification": "https://youtu.be/ntwfv59VQYI?si=P-q4wGgmLOgBAAJm",
+    "percentToQualify": "78",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DarkTD",
+            "link": "https://youtu.be/9p_VQ6OTq_M?si=iUw49Bmvs7n6qoSH",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Edduh",
+            "link": "https://youtu.be/ys37ULxmIOw?si=RkGW_t3FoLHu5dMt",
+            "percent": 100,
+            "hz": 238
+        },
+        {
+            "user": "stav",
+            "link": "https://youtu.be/jNwgmF5ovaA?si=ZxeHWDb6QPuRDOpT",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
