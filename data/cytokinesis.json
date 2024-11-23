@@ -8,5 +8,11 @@
     "percentToQualify": "68",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "zuva",
+            "link": "https://youtu.be/a9DBdOyQidc",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
